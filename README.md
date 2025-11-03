@@ -1,2 +1,2 @@
 # countdown4jessop
-A countdown for the date my friend come's back from the Phillipenes.
+Just a simple HTML website with a bit of JavaScript, counting down for when my friend come's back from his Missionary.
